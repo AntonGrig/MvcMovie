@@ -2,7 +2,7 @@ using System;
 
 namespace MvcMovie.Models
 {
-    // Comment
+    // Comment 1
     public class ErrorViewModel
     {
         public string RequestId { get; set; }
