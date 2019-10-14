@@ -8,6 +8,9 @@ using MvcMovie.Models;
 
 namespace MvcMovie.Controllers
 {
+    /// <summary>
+    /// test
+    /// </summary>
     public class HomeController : Controller
     {
         public IActionResult Index()
